@@ -1,0 +1,68 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Stormtrooper",
+            "imagem": "https://images.unsplash.com/photo-1620138694717-07141b500f57?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "foto do copo stormtrooper",
+            "quantidade": 5,
+            "preco": 60.2,
+            "categoria": "utensílios"
+
+        },
+        {
+            "id": 2,
+            "nome": "GameBoy",
+            "imagem": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__",
+            "alt": "foto do gameboy",
+            "quantidade": 5,
+            "preco": 60.2,
+            "categoria": "jogos"
+        },
+        {
+        "id": 3,
+        "nome": "Stormtrooper",
+        "imagem": "https://images.unsplash.com/photo-1620138694717-07141b500f57?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "foto do copo stormtrooper",
+        "quantidade": 5,
+        "preco": 60,
+        "categoria": "utensílios"
+        },
+        {
+        "id": 4,
+        "nome": "GameBoy",
+        "imagem": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__",
+        "alt": "foto do gameboy",
+        "quantidade": 5,
+        "preco": 60,
+        "categoria": "jogos"
+        },
+        {
+        "id": 5,
+        "nome": "Stormtrooper",
+        "imagem": "https://images.unsplash.com/photo-1620138694717-07141b500f57?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "foto do copo stormtrooper",
+        "quantidade": 5,
+        "preco": 60,
+        "categoria": "utensílios"
+        },
+        {
+        "id": 6,
+        "nome": "GameBoy",
+        "imagem": "https://s3-alpha-sig.figma.com/img/d558/49ab/5123b06dc2b03005a463881f216b87f1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=I-o6rY~MqOVkfmAUrjmH9VBNYVha-sxicG2VU~CN-jKCS6zeL~j6ssA1SjCJWQ1sVgHVYkXMf~zeKy6ROwlDIj1grTi6dXWCA1Y35nCfcFlLRlbXPDtX4onwP83ch7RVsEQS~Hv-fPHKttW7uIgODMEaQMvoNoUwJ3QvKimzYE0Y8Blvoze~PYr6JX8ojHarpEWhgBrXgmHcBWsBDpcEcoKIAk0nY3XqwEZw4XqY6zFGJcbbRsHPb5GcQsxXXXQ9VqeFiHqj--3glCpvEpDCrTUR8WAlioyf5qVqBE0aFO~Ub3TqOSTICZmcEp3UjJJMTtz~YPJgN~Gj1X3hjwuCKA__",
+        "alt": "foto do gameboy",
+        "quantidade": 5,
+        "preco": 60,
+        "categoria": "jogos"
+        },
+        {
+        "id": 7,
+        "nome": "Darth Vader",
+        "imagem": "https://m.media-amazon.com/images/I/810TW9rENNL._AC_SX522_.jpg",
+        "alt": "foto da luminária darth vader",
+        "quantidade": 5,
+        "preco": 60,
+        "categoria": "utensílios"
+        }
+    ]   
+}

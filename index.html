@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <title>AluraGeek</title>
+</head>
+<header>
+    <img src="assets/image 1.png">
+    <h3 class="menu__title">AluraGeek</h3>
+</header>
+
+
+<body>
+    <!-- FORMULARIO -->
+<div class="conteudo__total">
+    <div class="container">
+        <form>
+            <fieldset>
+                <div class="formulario__campo" data-formulario>
+                <h2 class="formulario__titulo">ADICIONAR PRODUTO:</h2>
+                    <input type="text" name="nome" for="nome" placeholder="nome..." required
+                    id="nome" data-nome>
+                </div>
+
+                <div class="formulario__campo">
+                    <input type="text" name="imagem" for="imagem" placeholder="imagem..." required
+                    id="imagem" data-imagem> 
+                </div>
+
+                <div class="formulario__campo">
+                    <input type="text" name="preco" for="preco" placeholder="preço..." required
+                    id="preco" data-preco>
+            </div>
+                <button class="btn__guardar" type="submit">Salvar</button>
+                <button class="btn__limpar" type="reset">Limpar</button>
+            </fieldset>
+        </form>
+    </div>
+
+    <!-- VITRITE DE PRODUTOS -->
+    <div>
+    <h1>MEUS PRODUTOS</h1>
+    <ul class="container__vitrine" alt="produtos" data-lista>
+        
+    </ul>
+    </div>
+</div>
+    </body>
+
+
+
+
+<!-- RODAPÉ -->
+    <div class="footer__rodape"> 
+    <img src="assets/image 1.png">
+        <h3 class="menu__title">Desenvolvido por Ester Miranda</h3>
+        <h3 class="menu__title">2024</h3>
+    </div>
+
+<script src="../js/criarProduto.js" type="module"></script>
+<script src="./js/mostrarProdutos.js" type="module"></script>
+</body>
+</html>
