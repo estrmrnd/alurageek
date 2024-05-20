@@ -8,8 +8,7 @@ function constroiCard(nome, preco, imagem) {
     produtos.innerHTML = `<img decoding="async" src="${imagem}" alt="${nome}">
     <h2>${nome}</h2>
     <p>R$${preco}</p>
-    <button>Comprar</button>`
-
+    <button class="btn-excluir">Excluir</button>`
     return produtos;
 }
 

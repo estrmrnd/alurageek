@@ -22,7 +22,19 @@ async function criaProduto(nome, imagem, preco) {
 
     return conexaoConvertida;
 }
+
+async function removeProduto(itensProduto) {
+    const conexao = await fetch("http://localhost:3000/produtos/deletar?itens=" + itensProduto, {
+        method: "DELETE"
+    });
+    
+    const conexaoConvertida = await conexao.json();
+
+    return conexaoConvertida;
+}
+
 export const conectaApi = {
     listaProdutos,
-    criaProduto
+    criaProduto,
+    removeProduto
 }
