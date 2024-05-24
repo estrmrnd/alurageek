@@ -1,4 +1,4 @@
-![meus produtos desk](https://github.com/estrmrnd/alurageek/assets/144865009/f8bcbed9-b048-4c71-a5ac-f84a00b34f4f)o código está feito quase de acordo com padrão do figma, a diferença se dá no botão do card e da apresentação dos produtos. 
+o código está feito quase de acordo com padrão do figma, a diferença se dá no botão do card e da apresentação dos produtos. 
 
 no mobile optei por fazer em carrossel. 
 
